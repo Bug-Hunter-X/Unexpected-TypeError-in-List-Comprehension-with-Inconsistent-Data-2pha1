@@ -1,0 +1,3 @@
+# Unexpected TypeError in List Comprehension with Inconsistent Data
+
+This repository demonstrates an uncommon error that can occur in Python when dealing with list comprehensions and inconsistent data types within a list of dictionaries. The error might be masked by standard exception handling such as trying to catch KeyError, masking the underlying TypeError. The solution shows how to handle type checking more robustly.
